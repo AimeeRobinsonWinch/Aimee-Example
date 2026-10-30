@@ -1,2 +1,2 @@
 # Aimee-Example
-An example for Aimee's Lesson
+An example for Aimee's cool Lesson
